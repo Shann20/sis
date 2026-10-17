@@ -77,4 +77,4 @@ Change this password after evaluation.
 
 ## Author
 
-Santos Jr., Mier – Capstone Project, Web Development 2
+Capstone Project, Web Development 2
